@@ -1,73 +1,66 @@
 # GPRS7-2024
 GESTÃO DE PROJETOS
 
-https://www.cin.ufpe.br/~if717/slides/PMBOK.pdf
+Atv 2
 
-Atv1 
-Sobre o termo de abertura do projeto. Assinale a 
+1)--------------------------------------------------------------------------------------------------------------
+Acerca de Gerenciamento do escopo do projeto, assinale a alternativa incorreta.
 
-alternativa incorreta.
-
-
-B.
-Criar a Estrutura Analítica do Projeto (EAP) é o processo 
-
-de subdivisão do produto em componentes menores e de 
-
-gerenciamento mais fácil.
+A.
+O processo de finalização de todas as atividades, de todos os grupos de processos de gerenciamento de projeto consiste no encerramento do projeto ou fase.
 
 
+C. (Provav essa)
+A fase de “encerramento do projeto ou fase: saídas” envolve: transição do produto, serviço ou resultado final, arquivos de projeto, documentos de encerramento de projeto ou fase e (informação atual do projeto).
 
------------------------------------------------------------
-
---------------------------------------------
-
-Um projeto é um esforço temporário empreendido para criar um produto, serviço ou resultado exclusivo. A sua natureza temporária indica um início e um término definidos. O término é alcançado quando os objetivos tiverem sido atingidos ou quando se concluir que esses objetivos não serão ou não poderão ser atingidos e o projeto for encerrado, ou quando o mesmo não for mais necessário.
-
-Por um projeto podemos criar:
-
-a) um produto que pode ser um item final ou um item componente do mesmo item;
-
-b) uma capacidade de realizar um serviço, como produções de cenários;
-
-c) um resultado de um nível esperado ou não.
-
-Esta afirmação está correta?
-
-
-Escolha uma opção:
-Verdadeiro
-Falso
-
--------------------------------------------------------------
-
-Ainda sobre o termo de abertura do projeto. Assinale a alternativa incorreta.
-
+2)------------------------------------------------------------------------------------------------------------------
+Acerca de Gerenciamento do escopo do projeto, assinale a alternativa incorreta.
 
 B.
-Desenvolver o cronograma é o processo de análise de sequências das atividades, suas durações, recursos necessários e restrições, visando criar o cronograma do projeto.
+Coletar requisitos é definir e gerenciar as expectativas dos (desenvolvedores).
 
-(E.)
+slide = Coletar requisitos é definir e gerenciar as expectativas do
+cliente
 
-------------------------------------------
-A estrutura organizacional é um fator ambiental da empresa que pode afetar a disponibilidade dos recursos e influenciar a maneira como os projetos são conduzidos. As estruturas organizacionais variam de funcionais a projetizadas, com diversas estruturas matriciais entre elas. Considerando estruturas organizacionais, assinale a alternativa incorreta.
+5)------------------------------------------------------------------------------------------------------------------
+
+Considerando “Desenvolver o plano de gerenciamento do projeto”. Assinale a alternativa incorreta.
 
 
 D.
-Uma organização matricial balanceada reconhece a necessidade de um gerente de projetos, ela fornece a ele autoridade total sobre o projeto e sobre seu financiamento.
+Ele é desenvolvido por um processo integrado até o encerramento do projeto.
+PDF = . O plano de gerenciamento é desenvolvido através de uma
+série de processos integrados até o encerramento do projeto (não por um mas sim uma serie de processos) 
+
+
+Enfatizando “Gerenciamento da Integração do Projeto”, assinale a alternativa incorreta.
+
+
+6)------------------------------------------------------------------------------------------------------------------
+
+B.
+A necessidade do gerenciamento da integração do projeto fica evidente em situações onde processos semelhantes interagem.
+PDF = A necessidade do Gerenciamento da integração do projeto fica evidente em situações
+onde processos distintos interagem.
 
 
 
-E.
-Uma organização fundamentalmente funcional pode criar uma equipe de projeto especial para cuidar de um projeto crítico. Essa equipe pode ter muitas das características de uma equipe de projeto em uma organização projetizada.
+7)--------------------------------------------------------------------------------------------------------------------
+
+O gerente de projetos, juntamente com a equipe do projeto, orienta o desempenho das atividades planejadas e gerencia as diversas interfaces técnicas e organizacionais que existem dentro do projeto.
 
 
-Determinar o orçamento é o processo de separação dos custos estimados de atividades individuais ou pacotes de trabalho para estabelecer uma linha base dos custos.
--------------------------------------------------------------
 
-Considerando Gerenciamento de projetos, relacionamento entre gerenciamento de projetos, gerenciamento de programas e gerenciamento de portfólios. Assinale a alternativa incorreta.
+C.
+Ação corretiva seria uma orientação não documentada para que o trabalho do projeto seja executado de modo que seu desempenho futuro esperado fique de acordo com o plano de gerenciamento. Ação preventiva seria uma orientação não documentada para a realização de uma atividade que pode reduzir a probabilidade de consequências negativas associadas aos riscos do projeto. Reparo de defeito é a identificação não documentada formalmente de um defeito em um componente do projeto com a recomendação para reparar o defeito ou substituir completamente o componente.
+
+PDF = Ação corretiva. Orientação documentada para que o trabalho do projeto seja executado
+de modo que seu desempenho futuro esperado fique de acordo com o plano de
+gerenciamento do projeto. 
 
 
-E.
-Os cinco grupos de um gerenciamento de projetos são: iniciação, qualidade, cronograma, orçamento e encerramento.
+
+
+
+
 
