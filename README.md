@@ -59,6 +59,45 @@ de modo que seu desempenho futuro esperado fique de acordo com o plano de
 gerenciamento do projeto. 
 
 
+SEmana 3  --------------------------------
+
+2) Considerando o gerenciamento do escopo do projeto, assinale a alternativa incorreta.
+
+
+
+A.
+A declaração do escopo do projeto possibilita que a equipe desempenhe um planejamento mais detalhado, direciona o trabalho da mesma durante a execução e fornece a linha de base para avaliar se as solicitações de mudança ou trabalho adicional estão contidos no escopo.
+https://www.diegomacedo.com.br/declaracao-do-escopo-do-projeto/
+
+
+
+E.
+A estrutura analítica do projeto (EAP) é uma decomposição hierárquica orientada às entregas do trabalho a ser executado pela equipe para atingir os objetivos do projeto e criar as saídas requisitadas.
+
+Slide: A estrutura analítica do projeto (EAP) é uma
+decomposição hierárquica orientada às entregas do
+trabalho a ser executado pela equipe para atingir os
+objetivos do projeto e criar as entregas requisitadas
+https://robsoncamargo.com.br/blog/Estrutura-analitica-de-projetos-EAP
+
+
+
+
+
+3) Considerando o gerenciamento do tempo do projeto. Assinale a alternativa incorreta.
+
+
+
+A.
+Atualizações dos documentos do projeto – os documentos do projeto que podem ser atualizados incluem: lista das atividades, atributos das atividades e registro dos riscos.
+
+
+C.
+Diagramas de rede do cronograma do projeto – são mostras esquemáticas das atividades do cronograma e as relações lógicas entre elas, também chamadas de independências.
+
+
+
+
 
 
 
