@@ -133,6 +133,74 @@ A Demora ocorreu pela falta de transparência da empresa, também a coleta das i
 8b) Cite outras mudanças que você acredita que deveriam ter sido feitas.
 
 
+13/03/2024 questao 1 -----------------------------------------------------------------------------------
+Considerando o gerenciamento do tempo do projeto. A estimativa análoga usa parâmetros tais como duração, orçamento, tamanho, peso e complexidade de um (processo) anterior similar com base para a estimativa dos mesmos parâmetros ou medidas para um projeto futuro.
+
+slide: usa parâmetros tais como duração,
+orçamento, tamanho, peso e complexidade de um (projeto)
+anterior similar com base para a estimativa dos mesmos
+parâmetros ou medidas para um projeto futuro;
+
+questão 2 --------------------------------------------------------------------------
+questão 3 --------------------------------------------------------------------------
+questão 4 --------------------------------------------------------------------------
+Considerando o gerenciamento do tempo do projeto, assinale a alternativa incorreta.
+
+
+
+D.
+A quantidade de detalhes e o nível de especificidade das descrições dos requisitos de recurso podem variar com a sua área de atuação.
+
+
+
+questão 5 --------------------------------------------------------------------------
+Considerando o gerenciamento do tempo do projeto. As entradas do item estimar as durações das atividades incluem: 
+lista das atividades, 
+atributos das atividades, 
+declaração do escopo do projeto, 
+fatores ambientais da empresa, 
+ativos de processos organizacionais.
+
+
+Estudo de Caso: 
+1a - Resumo
+Frito Lay é uma empresa que produz salgadinhos e precisava de melhorar seu gerenciamento de dados, com isso ela decidio criar um portal para organizar, facilitar o acesso as informações e a colaboração das equipes. O portal que recebeu o nome de Customer Community Portal (Portal da Comunidade dos Clientes abreviado como CPP) reuniu dados de diversos departamentos e localidades, assim gerando informações muito importantes sobre os clientes e tendencias do mercado. Com isso houve aumento nas vendas e melhora na reputação dos vendedores, passando a ser consultores, e queda na rotatividade nacional. Porém ainda haviam alguns problemas, com a adaptação dos funcionarios a mudança na forma de trabalho e a segurança da informação.
+
+1b - Como a gestão do conhecimento se relaciona com a evolução da empresa?
+Ela padroniza os processos com uso de melhores praticas, assim melhorando a qualidade e consistencia dos produtos, também redução de perdas e centralização de informação sobre os recursos, melhores metodos de produção, controle e identificação de falhas. Adaptação as mudanças e tendencias do mercado, facilita o desenvolvimento de novos tipos de produto etc.
+
+2a - Para o desenvolvimento do portal. A Gerência de Projetos (projetistas, desenvolvedores de software) teve um papel importante?
+Eles tiveram um papel de extrema importancia, pois essas partes são essenciais para o Planejamento, Execução e Controle, com isso é possivel desenvolver os produtos da melhor forma possivel, garantindo qualidade e atendendendo as espectativas das partes envolvidas, entregando dentro dos prazos e orçamentos.
+
+2b - Qual foi a sua relação com a Gestão do Conhecimento, com os Executivos da Empresa e com o pessoal de Vendas?
+Gestão do Conheciemnto -> Integração do portal com os sistemas ja existentes, criação do conteudo, avaliação com base na experiencia do usuario para aprimoramento do sistema.
+Executivos -> Houve comunicação com essas partes para garantir que os recursos do portal atendiam os objetivos da empresa, também para informa-los regularmente e avaliar riscos.
+Pessoal de vendas -> Houve treinamento de como utilizar os recursos do portal, coleta de feedback para melhorias e suporte tecnico.
+
+3a - A Frito-Lay considerou a Gerência de Risco (riscos que a empresa correria) no desenvolvimento do Portal? Como? Qual foi o grau de importância? Justifique.
+Sim ela considerou alguns riscos, principalmente a segurança dos dados, foi utilizado autenticação por senhas para garantir que somente usuarios com permissão tivessem acesso aos dados, o grau de importancia atribuido foi alto.
+
+4a -  Quanto a Gerência de Tempo (tempo de espera pelo software). Qual foi a estratégia utilizada pela Frito-Lay no desenvolvimento do portal em relação aos seus concorrentes?
+Foi realizada em um perido relativamente curto de desenvolvimento, para que assim coletassem feedback de usuarios de forma rapida, o que facilita o processo de encontrar e corrigir problemas, isso tudo da maneira mais rapida possivel, assim que recebiam feedback, ja se iniciava o processo de correção. Para isso foi necessario alto investimento em recursos tecnologicos, tanto hardware quanto software, respectivamente servidores e desenvolvimento de software.
+
+4b - Como a Gerência de Tempo foi administrada e qual foi a grau de importância atribuído a mesma? Justifique.
+Ela definiu um prazo de 3 meses para o desenvolvimento base do portal, o que exigiu muito esforço por parte da equipe, que apesar de imprevistos conseguiu finalizar o desenvolvimento da etapa inicial. O grau de importancia atribuido foi alta pois essa parte foi uma das etapas mais fundamentais para o desenvolvimento do proejto, ja que esse metodo possibilitou a identificação de correção de falhas de maneira agil.
+
+5a - Qual será o sucesso do CCP em longo prazo?
+Melhora na satisfação do clientes por conta do atendimento, suporte, aumento em vendas, redução na rotatividade, simplificação e agilização de processos, comunição entre as a equipe e demais partes envolvidas, coleta de dados e tendencias do mercado e vantagem compeditiva.
+
+5b - Descreva o que você acha que poderia causar o fracasso ou o sucesso e explique por quê.
+Houvera sucesso caso haja satisfação com a usabilidade do usuario, fornecimento de informações personalizadas, e segurança.
+Caso haja problemas de desenpenho, falta ou suporte ou mal atendimento, ma gestão de dados e problemas de segurança.
+
+6a - No aspecto qualidade. Foi considerada a Qualidade no portal, relacionada às vendas e aos serviços?
+Sim, equipe se comunicou com a equipe de vendas, resalizou testes com base nos feedbacks, segurança por autenticação de senhas e treinamento da equipe. Isso para que os usuarios tenham boas experiencias e se sinteam satisfeitos, criando uma confiança na empresa, consequntemente gerando uma boa reputação.
+
+
+
+
+
+
 
 
 
