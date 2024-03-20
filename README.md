@@ -252,7 +252,7 @@ com métodos.
 
 -------------------------------------------------------------
 Considerando o gerenciamento dos custos de um projeto, assinale a alternativa incorreta.
-
+https://www.trt7.jus.br/files/institucional/governanca_ti/processos/processo-trt7/TRT_Compartilhado/disciplines/4_PMBOK_Gerenciamento_Custos_Projeto_41712C18.html
 A.
 Nas associações com procedimentos organizacionais a EAP fornece a estrutura para o plano de gerenciamento dos custos, gerando consistência com as estimativas, orçamentos e controle de custos, o componente da EAP usado para a contabilidade de custos do projeto é chamado de conta de controle, cada conta de controle recebe um código único ou número de conta que conecta diretamente ao sistema de contabilidade da organização executora.
 Associações com procedimentos organizacionais – a EAP
@@ -263,7 +263,7 @@ orçamentos e controle de custos.
 
 B.
 No plano de gerenciamento dos custos todas as informações são incluídas no plano de gerenciamento dos custos, esse plano de gerenciamento dos custos pode ser formal ou informal, altamente detalhado ou conciso, dependendo das necessidades do projeto.
-
+Todas essas informações são incluídas no plano de gerenciamento dos custos, um componente do plano de gerenciamento do projeto, ou como texto no corpo do plano ou como apêndices. Esse plano de gerenciamento dos custos pode ser formal ou informal, altamente detalhado ou conciso, dependendo das necessidades do projeto.
 
 
 C.
