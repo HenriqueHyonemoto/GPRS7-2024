@@ -196,6 +196,139 @@ Caso haja problemas de desenpenho, falta ou suporte ou mal atendimento, ma gest�
 6a - No aspecto qualidade. Foi considerada a Qualidade no portal, relacionada às vendas e aos serviços?
 Sim, equipe se comunicou com a equipe de vendas, resalizou testes com base nos feedbacks, segurança por autenticação de senhas e treinamento da equipe. Isso para que os usuarios tenham boas experiencias e se sinteam satisfeitos, criando uma confiança na empresa, consequntemente gerando uma boa reputação.
 
+-----------------------------------------------------------------------
+aula05
+Considerando o gerenciamento do tempo do projeto, assinale a alternativa incorreta.
+
+
+
+A.
+A análise de variação é usada para avaliar a magnitude de variação à linha de base do cronograma, a variação da folga também é um componente essencial de planejamento para avaliar o desempenho de tempo do projeto.
+
+Medições de desempenho do cronograma são usadas
+para avaliar a magnitude de variação à linha de base
+do cronograma. A variação da folga também é um
+componente essencial de planejamento para avaliar o
+desempenho de tempo do projeto
+
+B.
+A análise de cenário e-se é usada para revisar vários cenários alinhando o cronograma como plano.
+
+É usada para revisar vários cenários alinhando o
+cronograma com o plano.
+
+C.
+A análise de desempenho mede, compara e analisa o desempenho do cronograma como as datas reais de início e término, porcentagem completa e duração restante para o trabalho em andamento.
+Análise de desempenho
+ As análises de desempenho medem, comparam e
+analisam o desempenho do cronograma como as datas
+reais de início e término, porcentagem completa e
+duração restante para o trabalho em andamento.
+
+D.
+Controlar o cronograma é o processo de monitoramento do andamento do projeto para atualização do seu progresso e gerenciamento das mudanças feitas na linha de base do cronograma, relaciona-se a determinação da situação atual do cronograma e influência nos fatores que criam mudanças no cronograma.
+
+ o processo de monitoramento do andamento do
+projeto para atualização do seu progresso e
+gerenciamento das mudanças feitas na linha de base do
+cronograma.
+Esta relacionado a:
+ Determinação da situação atual do cronograma;
+ Influência nos fatores que criam mudanças no
+cronograma;
+ Determinação de que o cronograma do projeto mudou;
+ Gerenciamento das mudanças reais conforme
+ocorrem.
+
+E.
+Na ferramenta para desenvolvimento do cronograma os dados do cronograma são atualizados e compilados no cronograma para refletir o progresso real do projeto e o trabalho restante a ser iniciado, a ferramenta de elaboração de cronograma e os dados de suporte do cronograma são usados em conjunto com métodos manuais ou outro software de gerenciamento de projeto para realizar a análise de rede do cronograma, atualizando o mesmo.
+Ferramenta para desenvolvimento do cronograma
+ Os dados do cronograma são atualizados e compilados
+no cronograma para refletir o progresso real do
+projeto e o trabalho restante a ser terminado. A
+ferramenta de elaboração de cronograma e os dados
+de suporte do cronograma são usados em conjunto
+com métodos.
+
+-------------------------------------------------------------
+Considerando o gerenciamento dos custos de um projeto, assinale a alternativa incorreta.
+
+A.
+Nas associações com procedimentos organizacionais a EAP fornece a estrutura para o plano de gerenciamento dos custos, gerando consistência com as estimativas, orçamentos e controle de custos, o componente da EAP usado para a contabilidade de custos do projeto é chamado de conta de controle, cada conta de controle recebe um código único ou número de conta que conecta diretamente ao sistema de contabilidade da organização executora.
+Associações com procedimentos organizacionais – a EAP
+fornece a estrutura para o plano de gerenciamento dos
+custos, gerando consistência com as estimativas,
+orçamentos e controle de custos.
+
+
+B.
+No plano de gerenciamento dos custos todas as informações são incluídas no plano de gerenciamento dos custos, esse plano de gerenciamento dos custos pode ser formal ou informal, altamente detalhado ou conciso, dependendo das necessidades do projeto.
+
+
+
+C.
+Nos limites de controle, os limites para variação para monitoramento do desempenho de custo podem ser especificados para indicar uma quantidade de variação combinada a ser permitida antes que alguma ação seja necessária, os limites são expressos como porcentagem de segmento da linha de base do plano
+Limites de controle – limites para variação para
+monitoramento do desempenho de custo podem ser
+especificados para indicar uma quantidade de variação
+combinada a ser permitida antes que alguma ação seja
+necessária.
+
+D.
+No nível de exatidão as estimativas de custo das atividades aderirão a um arredondamento dos dados numa precisão, baseada no escopo das atividades e magnitude do projeto e podem incluir uma quantia para contingências.
+Nível de exatidão – as estimativas de custo das
+atividades aderirão a um arredondamento dos dados
+numa precisão (p.ex: $100, $1000), baseada no escopo
+das atividades e magnitude do projeto e podem incluir
+uma quantia para contingências.
+
+
+E.
+O gerenciamento dos custos do projeto pode envolver esforços de um grupo ou de uma pessoa, com base nas necessidades do projeto, em alguns projetos, a estimativa e orçamento de custos são interligados tão firmemente que são vistos como um processo único que pode ser realizado por uma pessoa num período de tempo relativamente curto.
+O gerenciamento dos custos do projeto podem envolver
+esforços de um grupo ou de uma pessoa, com base nas
+necessidades do projeto;
+ Em alguns projetos, especialmente aqueles com menor
+escopo, a estimativa e orçamento de custos são
+interligados tão firmemente que são vistos como um
+processo único que pode ser realizado por uma pessoa
+num período de tempo relativamente curto.
+-------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
