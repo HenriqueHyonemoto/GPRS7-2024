@@ -201,51 +201,12 @@ aula05
 Considerando o gerenciamento do tempo do projeto, assinale a alternativa incorreta.
 
 
-
-A.
-A análise de variação é usada para avaliar a magnitude de variação à linha de base do cronograma, a variação da folga também é um componente essencial de planejamento para avaliar o desempenho de tempo do projeto.
-
-Medições de desempenho do cronograma são usadas
-para avaliar a magnitude de variação à linha de base
-do cronograma. A variação da folga também é um
-componente essencial de planejamento para avaliar o
-desempenho de tempo do projeto
-
-B.
-A análise de cenário e-se é usada para revisar vários cenários alinhando o cronograma como plano.
-
-É usada para revisar vários cenários alinhando o
-cronograma com o plano.
-
-C.
-A análise de desempenho mede, compara e analisa o desempenho do cronograma como as datas reais de início e término, porcentagem completa e duração restante para o trabalho em andamento.
-Análise de desempenho
- As análises de desempenho medem, comparam e
-analisam o desempenho do cronograma como as datas
-reais de início e término, porcentagem completa e
-duração restante para o trabalho em andamento.
-
-D.
-Controlar o cronograma é o processo de monitoramento do andamento do projeto para atualização do seu progresso e gerenciamento das mudanças feitas na linha de base do cronograma, relaciona-se a determinação da situação atual do cronograma e influência nos fatores que criam mudanças no cronograma.
-
- o processo de monitoramento do andamento do
-projeto para atualização do seu progresso e
-gerenciamento das mudanças feitas na linha de base do
-cronograma.
-Esta relacionado a:
- Determinação da situação atual do cronograma;
- Influência nos fatores que criam mudanças no
-cronograma;
- Determinação de que o cronograma do projeto mudou;
- Gerenciamento das mudanças reais conforme
-ocorrem.
-
 E.
-Na ferramenta para desenvolvimento do cronograma os dados do cronograma são atualizados e compilados no cronograma para refletir o progresso real do projeto e o trabalho restante a ser iniciado, a ferramenta de elaboração de cronograma e os dados de suporte do cronograma são usados em conjunto com métodos manuais ou outro software de gerenciamento de projeto para realizar a análise de rede do cronograma, atualizando o mesmo.
+Na ferramenta para desenvolvimento do cronograma os dados do cronograma são atualizados e compilados no cronograma para refletir o progresso real do projeto e o trabalho restante a ser (iniciado), a ferramenta de elaboração de cronograma e os dados de suporte do cronograma são usados em conjunto com métodos manuais ou outro software de gerenciamento de projeto para realizar a análise de rede do cronograma, atualizando o mesmo.
 Ferramenta para desenvolvimento do cronograma
  Os dados do cronograma são atualizados e compilados
 no cronograma para refletir o progresso real do
-projeto e o trabalho restante a ser terminado. A
+projeto e o trabalho restante a ser (terminado). A
 ferramenta de elaboração de cronograma e os dados
 de suporte do cronograma são usados em conjunto
 com métodos.
@@ -253,48 +214,40 @@ com métodos.
 -------------------------------------------------------------
 Considerando o gerenciamento dos custos de um projeto, assinale a alternativa incorreta.
 https://www.trt7.jus.br/files/institucional/governanca_ti/processos/processo-trt7/TRT_Compartilhado/disciplines/4_PMBOK_Gerenciamento_Custos_Projeto_41712C18.html
-A.
-Nas associações com procedimentos organizacionais a EAP fornece a estrutura para o plano de gerenciamento dos custos, gerando consistência com as estimativas, orçamentos e controle de custos, o componente da EAP usado para a contabilidade de custos do projeto é chamado de conta de controle, cada conta de controle recebe um código único ou número de conta que conecta diretamente ao sistema de contabilidade da organização executora.
-Associações com procedimentos organizacionais – a EAP
-fornece a estrutura para o plano de gerenciamento dos
-custos, gerando consistência com as estimativas,
-orçamentos e controle de custos.
 
 
-B.
-No plano de gerenciamento dos custos todas as informações são incluídas no plano de gerenciamento dos custos, esse plano de gerenciamento dos custos pode ser formal ou informal, altamente detalhado ou conciso, dependendo das necessidades do projeto.
-Todas essas informações são incluídas no plano de gerenciamento dos custos, um componente do plano de gerenciamento do projeto, ou como texto no corpo do plano ou como apêndices. Esse plano de gerenciamento dos custos pode ser formal ou informal, altamente detalhado ou conciso, dependendo das necessidades do projeto.
+
+
 
 
 C.
-Nos limites de controle, os limites para variação para monitoramento do desempenho de custo podem ser especificados para indicar uma quantidade de variação combinada a ser permitida antes que alguma ação seja necessária, os limites são expressos como porcentagem de segmento da linha de base do plano
-Limites de controle – limites para variação para
-monitoramento do desempenho de custo podem ser
-especificados para indicar uma quantidade de variação
-combinada a ser permitida antes que alguma ação seja
-necessária.
-
-D.
-No nível de exatidão as estimativas de custo das atividades aderirão a um arredondamento dos dados numa precisão, baseada no escopo das atividades e magnitude do projeto e podem incluir uma quantia para contingências.
-Nível de exatidão – as estimativas de custo das
-atividades aderirão a um arredondamento dos dados
-numa precisão (p.ex: $100, $1000), baseada no escopo
-das atividades e magnitude do projeto e podem incluir
-uma quantia para contingências.
+os limites são expressos como porcentagem de segmento da linha de base do plano
 
 
-E.
-O gerenciamento dos custos do projeto pode envolver esforços de um grupo ou de uma pessoa, com base nas necessidades do projeto, em alguns projetos, a estimativa e orçamento de custos são interligados tão firmemente que são vistos como um processo único que pode ser realizado por uma pessoa num período de tempo relativamente curto.
-O gerenciamento dos custos do projeto podem envolver
-esforços de um grupo ou de uma pessoa, com base nas
-necessidades do projeto;
- Em alguns projetos, especialmente aqueles com menor
-escopo, a estimativa e orçamento de custos são
-interligados tão firmemente que são vistos como um
-processo único que pode ser realizado por uma pessoa
-num período de tempo relativamente curto.
--------------------
+1 - 
+Fatores Gerenciais: Não houve verificação dos cálculos realizados pelo software, e trabalhavam excessivamente.
+Fatores Organizacionais: Falta de comunicação, revisão e controle de qualidade do software.
+Fatores Tecnologicos: Software não funcionando adequadamente, possuía limitações não documentadas que levava a diversos erros em suas execuções e não possuía sistema de detecção de erros.
+Responsável pelo mal funcionamento: A Equipe que desenvolveu o software, O Hospital por não fornecer recursos adequados, sobrecarregar os funcionários, não possuir funcionários o suficiente e negligencia em relação a realização dos tratamentos.
+Não houveram soluções muito adequadas ao problema, algumas partes envolvidas na causa do problema não foram responsabilizadas, não houveram correções aos erros de forma efetiva, o hospital não parece ter mudado sua forma de gerenciar.
 
+2 - A gestão pode ser considerada não adequada devido a falta de verificação dos calculos, falta de treinamento da equipe com a utilização do software, falhas no código, negligencia devido ao conhecimento dos erros e falta de medidas corretivas.
+
+3 - Certamente, pois como isso saiu na mídia, as pessoas não terão a confiança de utilizarem os serviços deste hospital, também devido a condenaçãos legais, foi necessário indenização as vitimas e também custos com medidas corretivas, e outros tipos de softwares, esses fatores consequentemente levam a perda de lucros, ja que as pessoas não vão ter interesse tanto em trabalhar quanto utilizar os servições oferecidos.
+
+4 - Esse processo provavelmente não foi feito, ou foi feito de uma maneira precária, pois a empresa já informava que erros de calculo eram possíveis e que deviam ser verificados, o que não foi feito pela equipe. Esse mesmo manual também não era claro, não alertava certos riscos, a empresa estava ciente das falhas há muito tempo e mesmo assim não tomou medidas corretivas.
+O Hospital deveria ter avalizado a reputação da empresa no mercado, relatos de clientes que ja utilziaram os serviços, qualidade do atendimento e suporte, realizar testes nos softwares, ler toda a documentação e manual, solicitar informações e assinar contratos sobre manutenções, e buscar opinião especializada.
+
+5 - Houve falta de pesquisa nas coletas requisitos, falta de testes em cenarios proximos a realidade, revisões, acompanhamentos das rotinas mais comuns, falta de conhecimento e negligencia da equipe de desenvolvedores, foco em outras partes durante o desenvolvimento e falta de comunicação cos os profissionais do hospital.
+
+
+6 - Os medicos por não revisarem os calculos e trabalhar excessivamente, os hospitais por permitir o trabalho excessivo, não contratar funcionários o suficiente, não realizar treinamentos da euqpe, não analisar corretamente a reputação da empresa e o funcionamento do software contratado, a empresa multidata pela negligencia de seus erros, falta de comunicação e também a fiscalização que não foi realizada por parte dos orgãos responsaveis.
+
+7 -
+8 -
+9 -
+10 -
+11 -
 
 
 
