@@ -49,7 +49,45 @@ As estrategias baseadas em rede possuem foco na colaboração de empresas para a
 6)     Como competir em escala global e promover a qualidade superior como vantagem competitiva?
 R: Um dos maiores pontos para se obter uma grande vantagem competitiva, é ter a maior quantidade possível de clientes satisfeitos com o produto, pois isso aumenta cada vez mais a quantidade de possíveis novos clientes, isso exige atender as suas necessidades, e consequentemente exige uma analise das tendencias do mercado, coleta de feedback, foco em qualidade, reduzir custos, automatizar processos, ter uma cadeia de suprimentos e serviços de entrega eficientes, e também inovações, pois isso cria um enorme destaque em relação as demais empresas competidoras, e também ter uma grande forma de marketing, grande parte do publico preferir mais a marca Coca-cola do que Pepsi, se deve ao grande marketing que ela desenvolveu ao longo do tempo.
 
-Atv1P3------------------------------------------------------------------------------------------------------------------------
+A7P3------------------------------------------------------------------------------------------------------------------------
 No gerenciamento da qualidade do projeto, explique detalhadamente com suas palavras o diagrama de causa e efeito.
 R: O Diagrama de causa e efeito também tem o nome de Diagrama de Ishikawa, seu objetivo é analisar as causas de problemas que envolvem os 6M da manufatura: Método, Mão de Obra, Material, Medidada, Meio Ambiente e Máquina.
-Sua estrutura possui uma cabeça que possui o problema/efeito a ser analisado, feito isso a informação segue esse modelo, começando em identificar o problema, as categorias de causa, agrupar as causas em subcategorias e alocalas nos ramos, identificar causas especificas e analisar a importancia e o impactop de cada causa para se definir prioridades.  
+Sua estrutura possui uma cabeça que possui o problema/efeito a ser analisado, feito isso a informação segue esse modelo, começando em identificar o problema, as categorias de causa, agrupar as causas em subcategorias e alocalas nos ramos, identificar causas especificas e analisar a importancia e o impactop de cada causa para se definir prioridades. 
+
+A7P1-----------------------------------------------------------------------------------------------------------
+Ainda sobre o gerenciamento da qualidade do projeto. Assinale a alternativa incorreta
+
+A.
+A amostragem estatística envolve a escolha de parte de uma população de interesse para inspeção. A frequência e os tamanhos das amostras devem ser determinados durante o processo planejar a qualidade para que o custo da qualidade inclua o número de teste, descarte esperado, etc.
+
+B.
+Realizar a garantia da qualidade é um processo de auditoria dos requisitos de qualidade e dos resultados das medições do controle da qualidade para garantir que sejam usados os padrões de qualidade e definições operacionais apropriados.
+https://www.trt7.jus.br/files/institucional/governanca_ti/processos/processo-trt7/TRT_Compartilhado/disciplines/5_PMBOK_Gerenciamento_Qualidade_Projeto_93B05C28.html:
+Realizar a garantia da qualidade: O processo de auditoria dos requisitos de qualidade e dos resultados das medições de controle de qualidade para garantir que sejam usados os padrões de qualidade e as definições operacionais apropriadas.
+
+C.
+O plano de gerenciamento da qualidade descreve como a equipe de gerenciamento de projetos implementará a política de qualidade da organização executora. Fornece entradas para o plano geral de gerenciamento do projeto e inclui o controle da qualidade, a garantia da qualidade e as abordagens de melhoria contínua de processos para o projeto. Deve ser informal e não precisa conter os mínimos detalhes.
+
+D.
+Métricas da qualidade é uma definição operacional que descreve, em termos bem específicos, um atributo do projeto ou produto. São usadas nos processos de garantia da qualidade e de controle da qualidade.
+
+E.
+Auditorias de qualidade consiste em uma revisão estruturada e independente para determinar se as atividades do projeto estão cumprindo as políticas, os processos e os procedimentos da organização e do projeto. As auditorias de qualidade podem ser programadas ou aleatórias, e podem ser realizadas por auditores internos ou externos.
+
+A7P2-----------------------------------------------------------------------------------------------------------
+Considerando o gerenciamento da qualidade do projeto. Assinale a alternativa incorreta.
+
+A.
+O custo da qualidade refere-se ao custo total de todos os esforços relativos à qualidade durante todo o ciclo de vida do produto. As decisões do projeto podem impactar os custos operacionais da qualidade como resultado de devoluções de produtos, reclamações e etc.
+
+B.
+Projeto de experimentos são métodos estatísticos para identificar os fatores que podem influenciar variáveis específicas de um produto ou processo em desenvolvimento ou em produção.
+
+C.
+Grau é uma qualidade aos produtos ou serviços que tem a mesma utilidade funcional, mas diferentes características técnicas. Qualidade é uma categoria atribuída com que um conjunto de características inerentes atende aos requisitos.
+
+D.
+Precisão significa que os valores de medições repetidas estão agrupados e tem pouca dispersão. Exatidão significa que o valor medido está bem próximo do valor correto.
+
+E.
+Benchmarking envolve a comparação de práticas de projetos reais ou planejados com as de projetos comparáveis para identificar as melhores práticas, gerar ideias para melhorias e fornecer uma base para medir o desempenho.
