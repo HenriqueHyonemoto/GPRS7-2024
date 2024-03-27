@@ -60,34 +60,33 @@ Ainda sobre o gerenciamento da qualidade do projeto. Assinale a alternativa inco
 A.
 A amostragem estatística envolve a escolha de parte de uma população de interesse para inspeção. A frequência e os tamanhos das amostras devem ser determinados durante o processo planejar a qualidade para que o custo da qualidade inclua o número de teste, descarte esperado, etc.
 
-B.
-Realizar a garantia da qualidade é um processo de auditoria dos requisitos de qualidade e dos resultados das medições do controle da qualidade para garantir que sejam usados os padrões de qualidade e definições operacionais apropriados.
-https://www.trt7.jus.br/files/institucional/governanca_ti/processos/processo-trt7/TRT_Compartilhado/disciplines/5_PMBOK_Gerenciamento_Qualidade_Projeto_93B05C28.html:
-Realizar a garantia da qualidade: O processo de auditoria dos requisitos de qualidade e dos resultados das medições de controle de qualidade para garantir que sejam usados os padrões de qualidade e as definições operacionais apropriadas.
-
 C.
 O plano de gerenciamento da qualidade descreve como a equipe de gerenciamento de projetos implementará a política de qualidade da organização executora. Fornece entradas para o plano geral de gerenciamento do projeto e inclui o controle da qualidade, a garantia da qualidade e as abordagens de melhoria contínua de processos para o projeto. Deve ser informal e não precisa conter os mínimos detalhes.
 
 D.
 Métricas da qualidade é uma definição operacional que descreve, em termos bem específicos, um atributo do projeto ou produto. São usadas nos processos de garantia da qualidade e de controle da qualidade.
+https://escritoriodeprojetos.com.br/metricas-da-qualidade/: 
+Uma métrica de qualidade é uma definição operacional que descreve, em termos bem específicos, um atributo do projeto ou do produto, e como o processo de controle da qualidade irá medi-lo.
+Uma métrica é medida e possui um valor real.
 
 E.
 Auditorias de qualidade consiste em uma revisão estruturada e independente para determinar se as atividades do projeto estão cumprindo as políticas, os processos e os procedimentos da organização e do projeto. As auditorias de qualidade podem ser programadas ou aleatórias, e podem ser realizadas por auditores internos ou externos.
-
+                                                                  As auditorias determinam se as atividades do projeto estão cumprindo as políticas e procedimentos da organização e do projeto.
 A7P2-----------------------------------------------------------------------------------------------------------
 Considerando o gerenciamento da qualidade do projeto. Assinale a alternativa incorreta.
 
 A.
 O custo da qualidade refere-se ao custo total de todos os esforços relativos à qualidade durante todo o ciclo de vida do produto. As decisões do projeto podem impactar os custos operacionais da qualidade como resultado de devoluções de produtos, reclamações e etc.
-
+>O custo da qualidade (CDQ) refere-se ao custo total de todos os esforços relativos à qualidade durante todo o ciclo de vida do produto. As decisões do projeto podem impactar os custos operacionais da qualidade como resultado de devoluções de produtos, reclamações de garantia e campanhas de recall.
 B.
-Projeto de experimentos são métodos estatísticos para identificar os fatores que podem influenciar variáveis específicas de um produto ou processo em desenvolvimento ou em produção.
-
+Projeto de experimentos são métodos estatísticos para identificar os fatores que podem influenciar variáveis específicas de um produto ou processo em desenvolvimento ou em produção. 
+Projeto de experimentos é um método estatístico que ajuda a identificar quais fatores podem influenciar variáveis específicas de um produto ou processo em desenvolvimento.
 C.
 Grau é uma qualidade aos produtos ou serviços que tem a mesma utilidade funcional, mas diferentes características técnicas. Qualidade é uma categoria atribuída com que um conjunto de características inerentes atende aos requisitos.
-
+Grau é uma categoria atribuída aos produtos ou serviços que têm a mesma utilidade funcional, mas diferentes características técnicas. Qualidade é “o grau com que um conjunto de características inerentes atende aos requisitos”.
 D.
 Precisão significa que os valores de medições repetidas estão agrupados e tem pouca dispersão. Exatidão significa que o valor medido está bem próximo do valor correto.
-
+                                                                                     estes mesmos 20 kg várias vezes e a balança indicar sempre os 20kg ou algo muito próximo deste valor ela está exata e precisa.
 E.
 Benchmarking envolve a comparação de práticas de projetos reais ou planejados com as de projetos comparáveis para identificar as melhores práticas, gerar ideias para melhorias e fornecer uma base para medir o desempenho.
+O Benchmarking envolve comparar as práticas reais ou planejadas do projeto com as de outros projetos, para gerar idéias para a melhoria e para fornecer um padrão pelo qual se possa medir o desempenho. Os outros projetos podem estar dentro da organização ou fora dela.
